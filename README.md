@@ -1,4 +1,4 @@
-![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-blue)
+![Estático](https://img.shields.io/badge/Legion--del--mal-Última--Versión-blue)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/FranciscoMSantana/RepoUdemy.yml)
 ![Release](https://img.shields.io/github/v/release/FranciscoMSantana/RepoUdemy)
