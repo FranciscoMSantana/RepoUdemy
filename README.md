@@ -4,7 +4,7 @@
 ![Release](https://img.shields.io/github/v/release/FranciscoMSantana/RepoUdemy)
 ![Issues](https://img.shields.io/github/issues/FranciscoMSantana/RepoUdemy)
 ![Último commit](https://img.shields.io/github/last-commit/FranciscoMSantana/RepoUdemy)
-![Licencia](https://img.shields.io/github/license/FranciscoMSantana/RepoUdemy)
+![Licencia](https://img.shields.io/github/license/FranciscoMSantana/RepoUdemy?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
