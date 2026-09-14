@@ -1,3 +1,11 @@
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-blue)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/FranciscoMSantana/RepoUdemy.yml)
+![Release](https://img.shields.io/github/v/release/FranciscoMSantana/RepoUdemy)
+![Issues](https://img.shields.io/github/issues/FranciscoMSantana/RepoUdemy)
+![Último commit](https://img.shields.io/github/last-commit/FranciscoMSantana/RepoUdemy)
+![Licencia](https://img.shields.io/github/license/FranciscoMSantana/RepoUdemy)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
