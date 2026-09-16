@@ -6,6 +6,8 @@
 4. Joker
 5. Harley Quinn
 6. Darkseid
+7. Green Goblin
+8. Thanos
 
 # Notas
 
