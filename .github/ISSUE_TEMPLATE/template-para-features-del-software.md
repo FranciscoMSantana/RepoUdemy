@@ -1,7 +1,7 @@
 ---
 name: Template para features del software
 about: Ayudanos a mejorar con feature
-title: ''
+title: 'Feat: '
 labels: enhancement, help wanted
 assignees: ''
 type: Feature

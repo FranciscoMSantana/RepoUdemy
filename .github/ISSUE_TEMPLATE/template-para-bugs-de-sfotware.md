@@ -2,7 +2,7 @@
 name: Template para bugs de sfotware
 about: Ayudanos a mejorar
 title: 'Bug: '
-labels: ''
+labels: enhancement, help wanted
 assignees: FranciscoMSantana
 type: Bug
 
