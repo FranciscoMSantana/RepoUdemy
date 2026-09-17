@@ -3,9 +3,14 @@ name: Reclutamiento de Agente
 on: push
 
 jobs: 
-    reporte-de-recletamiento:
-        runs-on: ubuntu-latest
+  reporte-de-recletamiento:
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: El agente se presenta
-              run: echo "Hola, soy el agente de reclutamiento y estoy listo para ayudar en el proceso de selección."
+    steps:
+      - name: El agente se presenta
+        run: echo "Hola, soy el agente de reclutamiento y estoy listo para ayudar en el proceso de selección."
+
+      - name: Verificar requisitos
+        run: | 
+          echo "Verificando los requisitos del candidato..."
+          echo "# Aquí puedes agregar comandos para verificar los requisitos del candidato"
