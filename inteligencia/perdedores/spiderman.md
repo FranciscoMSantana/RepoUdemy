@@ -13,3 +13,7 @@ Es un superheroe
 - Far from home
 
 
+## Poderes de spiderman
+
+- Fuerza
+- Sentido arácnido
